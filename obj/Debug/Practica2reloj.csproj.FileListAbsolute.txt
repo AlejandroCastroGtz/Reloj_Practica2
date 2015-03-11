@@ -1,0 +1,5 @@
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica2reloj\bin\Debug\Practica2reloj.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica2reloj\bin\Debug\Practica2reloj.pdb
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica2reloj\obj\Debug\Practica2reloj.csprojResolveAssemblyReference.cache
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica2reloj\obj\Debug\Practica2reloj.exe
+C:\Ingenieria en Ciencias Computacionales\Programacion 3\Practica2reloj\obj\Debug\Practica2reloj.pdb
